@@ -1,0 +1,12 @@
+table{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+#logo{
+    text-align: left;
+}
+#menu{
+    text-align: right;
+}
